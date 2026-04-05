@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GalaxyEmpireSMP.aternos.me",
+    "ip": "GalaxyEmpireSMP.aternos.me:50735",
     "port": 50735,
     "version": "1.21.11"
   },
