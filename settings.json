@@ -8,7 +8,7 @@
   "server": {
     "ip": "GalaxyEmpireSMP.aternos.me",
     "port": 50735,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
